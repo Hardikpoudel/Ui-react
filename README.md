@@ -40,3 +40,9 @@ Note: Only mandatory exercise is necessary to qualify for the test however, your
 ### [4] Docker (Optional)
 
 - Make the app run in the docker
+
+## Solution
+
+- Material-Ui is used
+- Simple SIgn-In page is created with validation
+- All the files that are added are in the components folder
